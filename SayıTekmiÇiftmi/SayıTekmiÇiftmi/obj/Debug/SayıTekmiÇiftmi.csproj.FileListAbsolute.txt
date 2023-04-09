@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\bin\Debug\SayıTekmiÇiftmi.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\bin\Debug\SayıTekmiÇiftmi.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\bin\Debug\SayıTekmiÇiftmi.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Oylama\SayıTekmiÇiftmi\SayıTekmiÇiftmi\obj\Debug\SayıTekmiÇiftmi.pdb
